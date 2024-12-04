@@ -47,9 +47,9 @@ Bienvenue sur mon profil GitHub ! Ici, je partage mes projets, mon code et mes a
 
 ## 💡 À propos de moi
 
-- 🔭 Actuellement en train de travailler sur **[Projet/Formation spécifique]**.
-- 🌱 Toujours en train d'apprendre de nouvelles technologies, notamment **[techno/frameworks récents]**.
-- ⚡ Fun fact : J'aime **[hobby ou passion]**, et je suis toujours partant pour un bon défi.
+- 🔭 Actuellement en train de travailler sur mes projets universitaires en **[BUT Informatique]**.
+- 🌱 Toujours en train d'apprendre de nouvelles technologies, notamment **[React & Node.js]**.
+- ⚡ Fun fact : J'aime **[les sports automobiles]**, et je suis toujours partant pour un bon défi.
 
 ---
 

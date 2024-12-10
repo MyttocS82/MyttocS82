@@ -53,7 +53,13 @@ Bienvenue sur mon profil GitHub ! Ici, je partage mes projets, mon code et mes a
   Ce projet illustre l'importance des océans en établissant des parallèles avec les systèmes humains, tout en proposant des ressources éducatives pour inciter à l'action en faveur de la préservation.
 
 - 🔗 [**Nom du projet 2**](https://github.com/MyttocS82/nom-du-projet-2) : Une autre description concise et motivante.
-- 🔗 [**Nom du projet 3**](https://github.com/MyttocS82/nom-du-projet-3) : Ajouter des détails captivants ici.
+
+- 🔗 [**SAE 2.02 - Exploration algorithmique d’un problème**](https://github.com/MyttocS82/SAE_2.02-Exploration-algorithmique-d-un-probleme) : 
+  Ce projet académique explore des problématiques algorithmiques avancées en mettant en œuvre plusieurs solutions pour un problème spécifique. Les fonctionnalités incluent :
+  - **Visualisation de données** : Affichage interactif des résultats et des comparaisons entre algorithmes.
+  - **Comparaison d'efficacité** : Étude comparative de la complexité temporelle et spatiale des solutions.
+  - **Mise en œuvre avancée** : Utilisation de langages comme Python pour simuler et analyser les performances des algorithmes développés.
+  - **But pédagogique** : Développer une compréhension approfondie des concepts algorithmiques essentiels.
 
 ---
 

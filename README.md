@@ -59,7 +59,6 @@ Bienvenue sur mon profil GitHub ! Ici, je partage mes projets, mon code et mes a
   - **Visualisation de données** : Affichage interactif des résultats et des comparaisons entre algorithmes.
   - **Comparaison d'efficacité** : Étude comparative de la complexité temporelle et spatiale des solutions.
   - **Mise en œuvre avancée** : Utilisation de langages comme Python pour simuler et analyser les performances des algorithmes développés.
-  - **But pédagogique** : Développer une compréhension approfondie des concepts algorithmiques essentiels.
 
 ---
 

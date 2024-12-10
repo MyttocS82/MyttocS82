@@ -44,7 +44,14 @@ Bienvenue sur mon profil GitHub ! Ici, je partage mes projets, mon code et mes a
 
 ## 📂 Projets phares
 
-- 🔗 [**Nom du projet 1**](https://github.com/MyttocS82/nom-du-projet-1) : Description courte et impactante du projet.
+- 🔗 [**VitalSea**](https://github.com/MyttocS82/NuitInfo_24-25) : Une application web interactive développée lors de la Nuit de l'Info 2024-2025.  
+  **Fonctionnalités principales :**  
+  - 🌊 Sensibilisation environnementale à travers des vidéos éducatives et un quiz ludique.  
+  - 🎨 Design moderne et responsive, adapté à toutes les tailles d'écran.  
+  - ⚙️ Développé avec **React** et **Tailwind CSS** pour une expérience utilisateur optimisée.  
+
+  Ce projet illustre l'importance des océans en établissant des parallèles avec les systèmes humains, tout en proposant des ressources éducatives pour inciter à l'action en faveur de la préservation.
+
 - 🔗 [**Nom du projet 2**](https://github.com/MyttocS82/nom-du-projet-2) : Une autre description concise et motivante.
 - 🔗 [**Nom du projet 3**](https://github.com/MyttocS82/nom-du-projet-3) : Ajouter des détails captivants ici.
 

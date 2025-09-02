@@ -36,7 +36,7 @@ Bienvenue sur mon profil GitHub ! Ici, je partage mes projets, mon code et mes a
 
 ## ⌛ Statistiques Wakatime
 
-<a href="https://github.com/MyttocS82/github-readme-stats">
+<a href="https://wakatime.com/@MyttocS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MyttocS&layout=compact&theme=radical" alt="Statistiques Wakatime" />
 </a>
 

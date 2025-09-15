@@ -36,22 +36,11 @@ Bienvenue sur mon profil GitHub ! Ici, je partage mes projets, mon code et mes a
 
 ## ⌛ Statistiques Wakatime
 
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <a href="https://wakatime.com/@MyttocS">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MyttocS&layout=compact&theme=radical" alt="Statistiques des langages de programmations" />
-      </a>
-    </td>
-    <td>
-      <a href="https://wakatime.com/@MyttocS">
-        <img src="https://wakatime.com/share/@MyttocS/25c616cc-d09c-444a-a612-b9f284e945d7.svg" alt="Statistiques des éditeurs de codes" style="border-radius:15px; border:1px solid #30363d; background:#0d1117; padding:5px;" />
-      </a>
-    </td>
-  </tr>
-</table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MyttocS&layout=compact&theme=radical" alt="Langages" />
+  <img src="https://wakatime.com/share/@MyttocS/25c616cc-d09c-444a-a612-b9f284e945d7.svg" alt="Éditeurs" width="450"/>
+</p>
+
 
 ---
 

@@ -43,7 +43,7 @@ Bienvenue sur mon profil GitHub ! Ici, je partage mes projets, mon code et mes a
     <figure><embed src="https://wakatime.com/share/@MyttocS/f7cc5120-ed0a-4074-bcb9-8f4e3c629bbf.svg"></embed></figure>
   </a>
   <a href="https://wakatime.com/@MyttocS">
-    <img align="center" width="50%" src="https://wakatime.com/share/@MyttocS/a51dda9c-8514-4cf9-bf81-f9a263f19da5.svg" alt="Statistiques des éditeurs de codes" />
+    <figure><embed src="https://wakatime.com/share/@MyttocS/7d8f5ade-7aa6-46eb-bb89-bb1958b33ffc.svg"></embed></figure>
   </a>
 </div>
 

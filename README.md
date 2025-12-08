@@ -40,7 +40,7 @@ Bienvenue sur mon profil GitHub ! Ici, je partage mes projets, mon code et mes a
 
 <div align="center">
   <a href="https://wakatime.com/@MyttocS">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MyttocS&layout=compact&theme=radical" alt="Statistiques des langages de programmations" />
+    <figure><embed src="https://wakatime.com/share/@MyttocS/f7cc5120-ed0a-4074-bcb9-8f4e3c629bbf.svg"></embed></figure>
   </a>
   <a href="https://wakatime.com/@MyttocS">
     <img align="center" width="50%" src="https://wakatime.com/share/@MyttocS/a51dda9c-8514-4cf9-bf81-f9a263f19da5.svg" alt="Statistiques des éditeurs de codes" />

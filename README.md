@@ -107,7 +107,7 @@ Bienvenue sur mon profil GitHub ! Ici, je partage mes projets, mon code et mes a
 
 ## 📫 Me contacter
 
-💌 **[LinkedIn](https://www.linkedin.com/in/michelon-scott-175858274/)**  
+💌 **[LinkedIn](https://www.linkedin.com/in/michelon-scott-dev)**  
 📧 **[Email](mailto:scottmichelon@gmail.com)**
 
 ---
